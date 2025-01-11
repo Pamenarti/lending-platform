@@ -50,9 +50,3 @@ Email - [pamenarti@gmail.com](pamenarti@gmail.com)
 
 Project Link: [https://github.com/Pamenarti/lending-platform](https://github.com/Pamenarti/lending-platform)
 
-## 🙏 Acknowledgments
-
-- OpenZeppelin Contracts
-- Hardhat
-- Ethers.js
-- Web3.js 
